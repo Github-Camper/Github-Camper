@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Github-Camper
+- 👀 I’m interested in robotics, Java and game dialogue making!
+- 🌱 I’m currently learning C++ and Java
+- 💞️ I’m looking to collaborate on no one
+- 📫 How to reach me: melneldell@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I still don't know how to code by Java and C++!
+- ⚡️ Another fun fact: I use a Macbook Air M1 2020 (with UTM for Windows ARM) and a Dell Optiplex 780 SFF 2009!
